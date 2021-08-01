@@ -20,7 +20,8 @@
 	- script - fxn1 - initial populate first
 	- if add next fxn to only add the same added record
 
-<details>
+</details>
+
 #### AJAX first try
 :tada: [Website](https://arjun-0000.github.io/Json-Ajax/AjaxTry.html) :tada:
 <details><summary>To see ajax details</summary>
@@ -46,5 +47,4 @@
 		- onreadystatechange = there if console shows lot of output with error
 			- use of condition readystate 4 and status 200
 		
-
 </details>
