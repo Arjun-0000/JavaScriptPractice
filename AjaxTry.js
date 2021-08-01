@@ -13,7 +13,7 @@ function loadJSON(callback) {
 			alert("json file is ready to use");
 		}
 	}
-	xHR.open('GET','json.json',true)
+	xHR.open('GET','../json1.json',true)
 	xHR.send();
 	console.log(xHR);
 }
