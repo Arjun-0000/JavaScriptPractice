@@ -1,7 +1,7 @@
 # Json-Ajax
 ## Json And Ajax practise files with description
 
-:tada: [Website](https://arjun-0000.github.io/Json-Ajax/) :tada:
+:tada: [Website](https://arjun-0000.github.io/Json-Ajax/jsonTry.html) :tada:
 
 1. Use of *JSONlint* (check json) and *myjson* (to create json in url)
 2. JSON.parse use to parse Object
